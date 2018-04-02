@@ -1,0 +1,9 @@
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\bin\Debug\netstandard2.0\EShop.Entity.deps.json
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\bin\Debug\netstandard2.0\EShop.Entity.dll
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\bin\Debug\netstandard2.0\EShop.Entity.pdb
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.csproj.CoreCompileInputs.cache
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.AssemblyInfoInputs.cache
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.AssemblyInfo.cs
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.dll
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.pdb
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop.Entity\obj\Debug\netstandard2.0\EShop.Entity.csprojResolveAssemblyReference.cache

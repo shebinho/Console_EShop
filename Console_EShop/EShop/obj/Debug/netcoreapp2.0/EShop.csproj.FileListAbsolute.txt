@@ -1,0 +1,13 @@
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.deps.json
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.runtimeconfig.json
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.runtimeconfig.dev.json
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.dll
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.pdb
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.csprojResolveAssemblyReference.cache
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.csproj.CoreCompileInputs.cache
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.AssemblyInfoInputs.cache
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.AssemblyInfo.cs
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.dll
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\obj\Debug\netcoreapp2.0\EShop.pdb
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.Entity.dll
+E:\SEAVUS\Vezbi\C-Sharp Tutorials\EShop_Homework\Console_EShop\EShop\bin\Debug\netcoreapp2.0\EShop.Entity.pdb
